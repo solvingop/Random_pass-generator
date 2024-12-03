@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+   
+
+}
+body{
+    padding: 180px;
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+
+}
+.heading{
+    color: #fff;
+}
+.Main_body{
+    justify-content: center;
+
+}
+.Random_password{
+    margin: 10px;
+}
+.part_body{
+    color: rgb(194, 180, 180);
+}
+#Password{
+    min-width: 100px;
+    padding: 20px 30px;
+    border-color: rgb(74, 9, 74);
+}
+.display{
+   display: flex;
+   margin-top: 20px;
+   
+}
+.copy-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+.copy-button img {
+    
+    width: 45px;
+    height: 40px;
+    border-radius: 50%;
+    
+}
+.input-container {
+    display: flex;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    margin-right: 580px;
+
+}
+#text-input{
+    min-width: 500px;
+    outline: 0;
+    border: 0;
+    font-size: large;
+
+}
+.Random_password{
+    margin: 0;
+    margin-top: 20px;
+    background-color: green;
+    font-weight:600;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.display img{
+    width: 25px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+
