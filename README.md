@@ -19,6 +19,5 @@ Usage
 
 
 1. Run the program
-2. Choose the desired password length
-3. Click the "Generate Password" button
-4. Copy the generated password
+2. Click the "Generate Password" button
+3. Copy the generated password
