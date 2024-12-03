@@ -1,4 +1,4 @@
-Random Password Generator
+Random Password Generator site link  - https://solvingop.github.io/Random_pass-generator/
 
 
 A simple and secure random password generator.
@@ -21,3 +21,4 @@ Usage
 1. Run the program
 2. Click the "Generate Password" button
 3. Copy the generated password
+
